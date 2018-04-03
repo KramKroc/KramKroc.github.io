@@ -1,0 +1,13 @@
+---
+layout: post
+title: Unhelpful error when mounting a shared folder in Oracle VM
+date: '2012-03-27T15:53:00.000-07:00'
+author: Mark Corkery
+tags:
+- virtualbox
+modified_time: '2013-10-20T14:22:34.842-07:00'
+blogger_id: tag:blogger.com,1999:blog-7218688161043116845.post-80479268304372526
+blogger_orig_url: http://markcorkery.blogspot.com/2012/03/unhelpful-error-when-mounting-shared.html
+---
+
+Today I devoted much too much time to trying to figure out why I couldn't mount a shared directory on my Oracle VM. The error being returned from the mount command was:<br/><blockquote>/sbin/mount.vboxsf: mounting failed with the error: Protocol error</blockquote><br/>It turned out that the reason this was occurring was because I had used the wrong name for the shared folder, I used a lower case name of the shared folder directory instead of the mixed case one. So the successful command ended up looking like the following:<br/><blockquote> mount -t vboxsf Documents /home/user/documents</blockquote><br/>FYI: my host system is Ubuntu 11.10 and the guest OS was Centos

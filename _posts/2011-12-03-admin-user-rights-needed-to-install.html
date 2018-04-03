@@ -1,0 +1,15 @@
+---
+layout: post
+title: Admin User Rights needed to install Eclipse (Indigo) Plugins
+date: '2011-12-03T14:35:00.000-08:00'
+author: Mark Corkery
+tags:
+- Programming
+- eclipse
+- android
+modified_time: '2013-10-20T14:22:34.836-07:00'
+blogger_id: tag:blogger.com,1999:blog-7218688161043116845.post-500017415384064997
+blogger_orig_url: http://markcorkery.blogspot.com/2011/12/admin-user-rights-needed-to-install.html
+---
+
+My attempts to install the Android Plugin for Eclipse (Indigo) were temporarily halted by the following error message:<br/><blockquote>Cannot complete the install because one or more required items could not be found.Software currently installed: Shared profile 1.0.0.1321226271019 (SharedProfile_com.springsource.sts.ide 1.0.0.1321226271019)Missing requirement: Shared profile 1.0.0.1321226271019 (SharedProfile_com.springsource.sts.ide 1.0.0.1321226271019) requires 'org.maven.ide.eclipse [1.0.100.20110804-1717]' but it could not be found</blockquote><br/>The message doesn't actually in any way shape or form guide you to the <a href="http://stackoverflow.com/questions/8027876/installing-the-android-adt-plugin-for-eclipse">root of the problem</a> which is that you need to be an Administrator in order to install new packages:<br/><br/><a href="https://bugs.eclipse.org/bugs/show_bug.cgi?id=350645">https://bugs.eclipse.org/bugs/show_bug.cgi?id=350645</a><br/><br/>The reason I'm installing Android tonight is that I've only gotten around to try to set it up on my new Windows 7 desktop. For those (like me) who don't know how to work around this, I suggest setting your <a href="http://support.microsoft.com/kb/975787">UAC </a>level down to none (requires a restart), doing what you need to do and then whack the UAC level back to default again.
