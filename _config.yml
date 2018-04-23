@@ -6,3 +6,4 @@ title: Mark Corkery
 tagline: A log of everyday life
 description: Sometimes technical, always random!
 paginate: 5
+baseurl: "https://github.com/kramkroc/kramkroc.github.io/blob/master"
