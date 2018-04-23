@@ -4,6 +4,6 @@ markdown: kramdown
 url: http://KramKroc.github.io
 title: Mark Corkery
 tagline: A log of everyday life
-description: My awesome new site
+description: Sometimes technical, always random!
 paginate: 5
 baseurl: ""
