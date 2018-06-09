@@ -19,6 +19,8 @@ The discussion was being hosted by [Elaine Burke](https://twitter.com/CriticalRe
 
 This was my first (and last?) discussion panel and in the build up I was equally nervous and excited about the event. In the end it went pretty well, but that was almost a given in that all panelists were in broad agreement, with each calling out specific aspects that would have been of particular interest to each given their background.
 
+![digitalCitizens.jpg](/public/digitalCitizens.jpg){:height="100%" width="100%"}
+
 ### How to Become Informed Parents?
 
 If I were to summarise the main core of my advice from the panel, it would be that parents need to take the time to become as informed as they can be. Most kids are getting some form of exposure to concepts of online safety and being a good digital citizen through their schools or youth groups. Parents in the main aren't but the good news is that there are loads of fantastic sites out there that are really accessible and do a great job of providing information in easily consumable chunks.
@@ -37,4 +39,4 @@ If only it was that simple. Your kids are super inquisitive. That's what makes i
 
 This is why it's vital to keep a dialogue open with your kids. You need to ensure they are robust enough and resiliant enough so that if they do find themselves in a situation that they feel uncomfortable in, that they can identify the risks and minimize the potential danger they are exposed to. That dialogue needs to involve them feeling comfortable enough to come and talk to you about these situations so you can help where you can.
 
-Spend time with your kids when they are online, using their tablets or playing on their consoles. See what apps they are using and do your research. Praise their positive online behaviour and call out any phishing attempts on unwanted friends requests that you yourself receive so that they can see why you reject or spot anything dodgy. 
+Spend time with your kids when they are online, using their tablets or playing on their consoles. See what apps they are using and do your research. Praise their positive online behaviour and call out any phishing attempts on unwanted friends requests that you yourself receive so that they can see why you reject or spot anything dodgy.
