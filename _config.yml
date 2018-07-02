@@ -6,7 +6,7 @@ title: Mark Corkery
 tagline: A log of everyday life
 description: Sometimes technical, always random!
 paginate: 5
-theme: jekyll-theme-prologue
+theme: jekyll-theme-minimal
 twitter_username: KramKroc
 
 gems:
