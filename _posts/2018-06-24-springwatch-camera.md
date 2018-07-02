@@ -7,7 +7,7 @@ I recently stumbled across a _tweet_ from [Pimoroni](https://shop.pimoroni.com/)
 
 The site contains [excellant instructions](https://mynaturewatch.net/daylight-camera-instructions) that are pitched at the right level for both novices and comfortable hackers alike. 
 
-For my project, I originally planned to use an old soup and an dold sauce plastic containers. I also don't own a drill and so used an alternative technique of heating a Philips headed screwdriver for 10 to 15 seconds and pushing it firmly over the location of where you wanted to position your camera hole.
+For my project, I originally planned to use an old soup and an old sauce plastic containers. I also don't own a drill and so used an alternative technique of heating a Philips headed screwdriver for 10 to 15 seconds and pushing it firmly over the location of where you wanted to position your camera hole. The plastic will slowly melt enough for you to push it through and create the hole. You will need a sharp blade to trim away the plastic and possibly make the hole bigger if it is too small.
 
 ![IMG_20180623_191157.jpg](/public/IMG_20180623_191157.jpg){:height="100%" width="100%"}
 
@@ -15,7 +15,7 @@ As I said, that is what I originally planned. After I attached the camera, I bar
 
 ![IMG_20180624_130243-COLLAGE.jpg](/public/IMG_20180624_130243-COLLAGE.jpg){:height="100%" width="100%"}
 
-THe software that you install on the SD card seems to mainly consist of a web server that you connect to over the wireless network that the Pi creates. This webserver lets you start/stop the recording as well as adjusting the movement sensitivty that triggers a picture to be taken. You can also view the photos that were already taken, download them or else delete them.
+The software that you install on the SD card seems to mainly consist of a web server that you connect to over the wireless network that the Pi creates. This webserver lets you start/stop the recording as well as adjusting the movement sensitivty that triggers a picture to be taken. You can also view the photos that were already taken, download them or else delete them.
 
 ![IMG_20180624_143607_1-COLLAGE.jpg](/public/IMG_20180624_143607_1-COLLAGE.jpg){:height="100%" width="100%"}
 
