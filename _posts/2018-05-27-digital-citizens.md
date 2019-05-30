@@ -1,5 +1,12 @@
 ---
 published: true
+title: "Coolest Projects 2018 - Parents Panel"
+categories:
+  - Blog
+tags:
+  - education
+  - CoderDojo
+  - Dublin
 ---
 ## Coolest Projects 2018 - Parents Panel
 

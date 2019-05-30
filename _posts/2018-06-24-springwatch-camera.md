@@ -1,5 +1,12 @@
 ---
 published: true
+title: "A Project that Combines Tech & Nature? I'm in!"
+categories:
+  - Blog
+tags:
+  - Raspberry Pi
+  - making
+  - nature
 ---
 ## A Project that Combines Tech & Nature? I'm in!
 
